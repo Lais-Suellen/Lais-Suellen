@@ -2,13 +2,9 @@ Oláaa eu sou a Lais Suellen!
 
 - 🔭 Estou buscando uma oportunidade na area de DEV.
 - 🌱 Tenho focado e me desenvolvido nas linguagens de JavaScript, HTML, CSS, C# e .NET
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 👯 Participei de uma academia de talentos a qual me identifiquei com a plataforma CRM DYNAMICS 365
+- 📫 Contato E-mail: Lais_su2@hotmail.com
+- ⚡  Sou uma pessoa que gosta de viajar, acampar e praticar mergulho.
  <div>
   <a href="https://github.com/Lais-Suellen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lais-Suellen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,6 +17,8 @@ Oláaa eu sou a Lais Suellen!
   <img align="center" alt="Lais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="right" alt="Rafa-yoda" heigth ="150" width="150" src="https://i.pinimg.com/originals/58/4e/a4/584ea4b7d23bff2989003c670c202f7d.jpg">
+</div>
 
 </div>
   
