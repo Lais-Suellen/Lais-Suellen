@@ -1,8 +1,8 @@
 👩‍💻 Oláaa eu sou a Lais Suellen! 👩‍💻
 
-- 🔭 Sou uma Dev in Training. buscando uma oportunidade.
+- 🔭 Sou uma Dev in Training.
 - 🌱 Tenho focado e me desenvolvido nas linguagens de JavaScript, HTML, CSS, C# e .NET
-- 💻 Participei de uma academia de talentos a qual me identifiquei com a plataforma CRM DYNAMICS 365.
+- 💻 Participei de uma academia de talentos a qual me identifiquei com  CRM DYNAMICS 365 e PowerPlataform.
 - 📫 Contato E-mail: Lais_su2@hotmail.com
 - 🗺️ Sou uma pessoa que gosta de viajar, acampar e praticar mergulho.
  <div>
